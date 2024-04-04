@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Drone.Services.AuthApi.props" />
+</Project>

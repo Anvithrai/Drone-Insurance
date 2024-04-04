@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qm3uxqf399fBOyvYjgJ3r92i0B/62FuSsdl4sV6Cim4=",
+  "Source": "Drone.Services.AuthApi",
+  "BasePath": "_content/Drone.Services.AuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
